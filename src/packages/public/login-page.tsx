@@ -28,7 +28,7 @@ export default () => {
     <div className="login-page" style={{ background: `url(${backgroundImage})` }}>
       <div className="login-page-title">
         <img src={logo} alt="logo"/>
-        <span>云销智算</span>
+        <span>i蜗牛AI</span>
       </div>
       <div style={{ display: 'inline-block', marginBottom: '8px' }}>
         <SwitchTabs activeKey={loginType} onChange={setLoginType}/>

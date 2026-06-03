@@ -75,7 +75,7 @@ export const LayoutPages = (props: { children: any }) => {
             <div className="app-home-header app-home-header-target">
               <div className="app-home-header-left">
                 <img src={logo} className="App-logo" alt="logo"/>
-                <span>云销智算</span>
+                <span>i蜗牛AI</span>
               </div>
               <div className="app-home-header-center"></div>
               <div className="app-home-header-right">

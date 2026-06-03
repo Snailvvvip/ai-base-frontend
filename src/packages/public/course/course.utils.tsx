@@ -69,7 +69,7 @@ export const CourseData: iCourseRecord[] = [
     studyHours: '36',
   },
   {
-    name: '智能报销系统——云销智算',
+    name: '智能报销系统——i蜗牛AI',
     id: 'f47ac10b-58cc-4372-a567-0e02b2c3d479',
     primaryImage: 'https://plain-assets.oss-cn-guangzhou.aliyuncs.com/20251126_rsedu_project/%E8%AF%BE%E7%A8%8B%E5%B0%81%E9%9D%A2_%E4%BA%91%E9%94%80%E6%99%BA%E7%AE%97.jpeg',
     introduce: '课程融合LangChain、FastAPI等主流框架，涵盖需求分析到部署上线完整流程，实现流式创建报销单、审批辅助决策等核心AI功能，为求职或创业打造高质量项目作品',
